@@ -12,7 +12,7 @@ Here are some additional features about me:
 
 🌟 I enjoy creating user-friendly and visually appealing web interfaces that provide a great user experience.
 
-📫 You can reach out to me through my email or LinkedIn profile for any professional inquiries or collaborations.
+📫 You can reach out to me through my [Email](mailto:adeyemoolamilekan08@gmail.com) or [LinkedIn Profile](https://www.linkedin.com/in/adeyemo-olamilekan-644033238/) for any professional inquiries or collaborations.
 
 Feel free to explore my GitHub repositories and contributions:
 
