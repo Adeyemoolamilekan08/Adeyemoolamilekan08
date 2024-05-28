@@ -1,6 +1,6 @@
 Hi there 👋
 
-I'm Adeyemo Olamilekan, a Web Developer from Nigeria. I specialize in developing responsive websites and web applications using HTML, CSS, JavaScript, and various web frameworks. With experience in both front-end and back-end development, I have worked extensively with PHP, OOP, and Laravel framework.
+I'm Adeyemo Olamilekan, a Web Developer from Nigeria. I specialize in developing responsive websites and web applications using HTML, CSS, JavaScript, React and various web frameworks. With experience in both front-end and back-end development, I have worked extensively with PHP, OOP, and Laravel framework.
 
 Here are some additional features about me:
 
