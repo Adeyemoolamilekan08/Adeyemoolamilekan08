@@ -14,7 +14,7 @@ Here are some additional features about me:
 
 📫 You can reach out to me through my [Email](mailto:adeyemoolamilekan08@gmail.com) or [LinkedIn Profile](https://www.linkedin.com/in/adeyemo-olamilekan-644033238/) or Visit the 
 
-   portfolio website: [https://adeyemoolamilekan08.github.io/My-Personal-Portfolio-/]. for any professional inquiries or collaborations.
+   portfolio website: [https://adeyemoolamilekan08.github.io/updated-portfolio/]. for any professional inquiries or collaborations.
 
 Feel free to explore my GitHub repositories and contributions:
 
