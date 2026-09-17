@@ -91,24 +91,10 @@ I have successfully delivered production-ready projects for clients in manufactu
 
 ---
 
-### 🛢️ [Pamtol Ban Oil & Gas — Corporate Portal](https://pamtolbanoilandgas.com)
-> A comprehensive corporate web portal with advanced service integrations for an oil & gas company.
-
-**Stack:** `PHP` `Laravel` `MySQL` `Bootstrap`
-
----
-
 ### 🧹 [AIMPRO Cleaning & Fumigation — Booking System](https://aimprocleaning.com)
 > Dynamic online booking system enabling customers to schedule cleaning and fumigation services seamlessly.
 
 **Stack:** `PHP` `MySQL` `HTML5` `CSS3` `Bootstrap`
-
----
-
-### ❤️ [Adunni Olayiwola Foundation — Nonprofit Platform](https://adunniolayiwolafoundation.org)
-> Secure nonprofit website with integrated online donation engine and CMS workflows to amplify social impact.
-
-**Stack:** `PHP` `Laravel` `MySQL` `HTML5` `CSS3`
 
 ---
 
